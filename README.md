@@ -4,7 +4,8 @@ To play against the Connect 4 AI follow the instructions below:
 2. Clone this project
 3. Run the connect_four.py file, a GUI window should open revealing the game board
 
-Demo: 
+
+**Demo: **
 
 
 
