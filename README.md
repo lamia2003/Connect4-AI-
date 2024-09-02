@@ -6,5 +6,8 @@ To play against the Connect 4 AI follow the instructions below:
 
 Demo: 
 
-https://github.com/user-attachments/assets/cbb420fd-85d3-4390-9840-91d91a7ff845
+
+
+
+https://github.com/user-attachments/assets/0f365e81-4618-4ecc-a75f-c92133ef6e6d
 
